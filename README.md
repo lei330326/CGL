@@ -1,4 +1,4 @@
-This repository is the code for the article "A Temporal-Geospatial Deep Learning Framework for Crop Yield Prediction" \
+This repository is the code for the article "A Temporal-Geospatial Deep Learning Framework for Crop Yield Prediction" 
 # Citations
 Please cite the paper and star this repo if you use our code and find it interesting/useful, thanks! Feel free to contact haihuang1005@gmail.com or open an issue if you have any questions.
 ```bibtex
