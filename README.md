@@ -7,7 +7,7 @@ Please cite the paper and star this repo if you use our code and find it interes
   author={Lei Wang, Zhengkui Chen, Weichun Liu and Hai Huang},
   year={2024},
   eprint={2024, 1, 0.},
-  archivePrefix={arXiv},
+  journal={Electronics},
 }
 ```
 \
